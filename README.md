@@ -1,12 +1,17 @@
 # Hi, I’m Roy Ivia 👋
 
-I’m an aspiring DevOps & Cloud Engineer with hands-on skills in **AWS, Kubernetes, Docker, Terraform, CI/CD, and automation**.  
-I build projects, document my learning journey, and prepare for real-world production deployments.
+I am a DevOps & Cloud Engineer with hands-on experience in **AWS, Kubernetes, Docker, Terraform, CI/CD pipelines, and automation**.  
+I design, build, and deploy cloud-native infrastructure and practical DevOps solutions.
 
 ---
 
-## 🔹 Skills
-- **Cloud & DevOps:** AWS (EC2, VPC, RDS, IAM, EKS), Kubernetes, Docker, Terraform
+## 🔹 Certifications
+- **AWS Certified Cloud Practitioner**
+
+---
+
+## 🔹 Core Skills
+- **Cloud & DevOps:** AWS (EC2, VPC, S3, RDS, IAM, EKS), Kubernetes, Docker, Terraform
 - **Automation:** Python scripting, CI/CD pipelines (GitHub Actions)
 - **Observability:** Monitoring, logging, and AI-assisted operations
 - **Foundations:** Linux, networking, infrastructure management
@@ -14,22 +19,16 @@ I build projects, document my learning journey, and prepare for real-world produ
 ---
 
 ## 🔹 Portfolio
-Check out my central DevOps portfolio repository:  
+Explore my central DevOps portfolio repository for projects and implementations:  
 [devops-cloud-portfolio](https://github.com/RoyIvia/devops-cloud-portfolio)
 
 ---
 
-## 🔹 Blog & Articles
-I document my learning journey and tutorials on Medium:  
-[Medium – Roy Ivia](https://medium.com/@royiviah)
-
----
-
-## 🔹 Connect with Me
-- LinkedIn: [Roy Ivia](https://www.linkedin.com/in/roy-ivia/)
-- GitHub: [https://github.com/RoyIvia](https://github.com/RoyIvia)
+## 🔹 Blog & Professional Profiles
+- Medium: [https://medium.com/@royiviah](https://medium.com/@royiviah)  
+- LinkedIn: [https://www.linkedin.com/in/roy-ivia/](https://www.linkedin.com/in/roy-ivia/)
 
 ---
 
 ## 🔹 Roadmap
-I’m following a structured **24-week DevOps & Cloud learning plan**, building skills progressively toward AWS DevOps Professional level and real-world production projects.
+Structured hands-on DevOps projects and cloud architectures aligned with professional DevOps and AWS standards.

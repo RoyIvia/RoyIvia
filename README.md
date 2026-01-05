@@ -29,7 +29,3 @@ Explore my central DevOps portfolio repository for projects and implementations:
 - Medium: [https://medium.com/@royiviah](https://medium.com/@royiviah)  
 - LinkedIn: [https://www.linkedin.com/in/roy-ivia/](https://www.linkedin.com/in/roy-ivia/)
 
----
-
-## 🔹 Roadmap
-Structured hands-on DevOps projects and cloud architectures aligned with professional DevOps and AWS standards.

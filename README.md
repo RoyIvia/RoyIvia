@@ -18,7 +18,7 @@ I design, build, and deploy cloud-native infrastructure and practical DevOps sol
 - **Observability:** Monitoring, logging, and AI-assisted operations
 - **Foundations:** Linux, networking, infrastructure management
 
----
+
 
 ## 🔹 Portfolio
 

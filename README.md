@@ -3,7 +3,7 @@
 I am a DevOps & Cloud Engineer with hands-on experience in **AWS, Kubernetes, Docker, Terraform, CI/CD pipelines, and automation**.  
 I design, build, and deploy cloud-native infrastructure and practical DevOps solutions.
 
----
+
 
 ## 🔹 Certifications
 - **AWS Certified Cloud Practitioner**

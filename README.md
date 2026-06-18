@@ -12,6 +12,7 @@ I design, build, and deploy cloud-native infrastructure and practical DevOps sol
 ---
 
 ## 🔹 Core Skills
+
 - **Cloud & DevOps:** AWS (EC2, VPC, S3, RDS, IAM, EKS), Kubernetes, Docker, Terraform
 - **Automation:** Python scripting, CI/CD pipelines (GitHub Actions)
 - **Observability:** Monitoring, logging, and AI-assisted operations

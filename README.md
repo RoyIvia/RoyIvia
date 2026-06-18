@@ -7,7 +7,7 @@ I design, build, and deploy cloud-native infrastructure and practical DevOps sol
 
 ## 🔹 Certifications
 - **AWS Certified Cloud Practitioner**
-- **AWS Academy Graduate – AWS Academy Cloud Architecting**
+- **AWS Certified Solutions Architect**
 
 ---
 

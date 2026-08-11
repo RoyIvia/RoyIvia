@@ -7,8 +7,8 @@ I design, build, and deploy cloud-native infrastructure and practical DevOps sol
 
 ## 🔹 Certifications
 - **AWS Cloud Practitioner**
-- **AWS  Solutions Architect Associate**
-- **AWS Certified CloudOps Engineer Associate**
+- **AWS Solutions Architect Associate**
+- **AWS CloudOps Engineer Associate**
 
 
 

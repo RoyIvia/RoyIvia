@@ -1,11 +1,11 @@
 # Hi, I’m Roy Ivia 👋
 
-I am a DevOps & Cloud Engineer with  experience in **AWS, Kubernetes, Docker, Terraform, CI/CD pipelines, and automation**.  
-I design, build, and deploy cloud-native infrastructure and practical DevOps solutions.
+I am a DevOps & Cloud Engineer with  experience in **AWS, Azure, Kubernetes, Docker, Terraform, CI/CD pipelines, and automation**.  
+I design, build, and deploy cloud-native infrastructure and practical DevOps solutions, as well as AI Solutions.
 
 
 
-## 🔹 Certifications
+##  Certifications
 
 - **AWS Cloud Practitioner**
 - **AWS AI Practitioner**
@@ -14,23 +14,15 @@ I design, build, and deploy cloud-native infrastructure and practical DevOps sol
 
 
 
-## 🔹 Core Skills
+##  Core Skills
 
-- **Cloud & DevOps:** AWS (EC2, VPC, S3, RDS, IAM, EKS), Kubernetes, Docker, Terraform
-- **Automation:** Python scripting, CI/CD pipelines (GitHub Actions)
-- **Observability:** Monitoring, logging, and AI-assisted operations
-- **Foundations:** Linux, networking, infrastructure management
-
-
-
-## 🔹 Portfolio
-
-Explore my central DevOps portfolio repository for projects and implementations:  
-[devops-cloud-portfolio](https://github.com/RoyIvia/devops-cloud-portfolio)
+- **Cloud & DevOps:** AWS, Microsoft Azure, Kubernetes, Docker, Terraform
+- **Automation:** Python & Bash scripting, CI/CD pipelines (GitHub Actions), Iac (Terraform, AWS Cloudframation, Azure Resource Manager)
+- **Observability:** Monitoring, logging (Amazon Cloudwatch, Azure Monitor, Prometheus, Grafana  and AI-assisted operations
+- **Foundations:** Linux, Networking, infrastructure management
 
 
-
-## 🔹 Blog & Professional Profiles
+## Blog & Professional Profiles
 - Medium: [https://medium.com/@royiviah](https://medium.com/@royiviah)  
 - LinkedIn: [https://www.linkedin.com/in/roy-ivia/](https://www.linkedin.com/in/roy-ivia/)
 

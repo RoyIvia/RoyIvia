@@ -18,8 +18,8 @@ I design, build, and deploy cloud-native infrastructure, practical DevOps soluti
 
 - **Cloud & DevOps:** AWS, Microsoft Azure, Kubernetes, Docker, Terraform, Linux, Networking
 - **Automation:** Python & Bash scripting, CI/CD pipelines (GitHub Actions), Iac (Terraform, AWS Cloudframation, Azure Resource Manager)
-- **Observability:** Monitoring, logging (Amazon Cloudwatch, Azure Monitor, Prometheus, Grafana, Data Dog and AI-assisted operations
-- **Foundations:** infrastructure management
+- **Observability:** Monitoring, logging (Amazon Cloudwatch, Azure Monitor, Prometheus, Grafana, Datadog and AI-assisted operations
+
 
 
 ## Blog & Professional Profiles

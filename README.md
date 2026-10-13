@@ -3,7 +3,6 @@
 I am a Cloud Solutions Architect & DevOps Engineer with  experience in **AWS, Azure, Kubernetes, Docker, Terraform, CI/CD pipelines, and automation**.  
 I design, build, and deploy cloud-native infrastructure, practical DevOps solutions, as well as AI Solutions.
 
-
 ##  Certifications
 
 - **AWS Cloud Practitioner**

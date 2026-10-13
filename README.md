@@ -21,7 +21,6 @@ I design, build, and deploy cloud-native infrastructure, practical DevOps soluti
 - **Observability:** Monitoring, logging (Amazon Cloudwatch, Azure Monitor, Prometheus, Grafana, Datadog and AI-assisted operations
 
 
-
 ## Blog & Professional Profiles
 - Medium: [https://medium.com/@royiviah](https://medium.com/@royiviah)  
 - LinkedIn: [https://www.linkedin.com/in/roy-ivia/](https://www.linkedin.com/in/roy-ivia/)

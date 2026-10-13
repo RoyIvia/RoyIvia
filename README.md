@@ -4,7 +4,6 @@ I am a Cloud Solutions Architect & DevOps Engineer with  experience in **AWS, Az
 I design, build, and deploy cloud-native infrastructure, practical DevOps solutions, as well as AI Solutions.
 
 
-
 ##  Certifications
 
 - **AWS Cloud Practitioner**

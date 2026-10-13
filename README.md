@@ -13,7 +13,6 @@ I design, build, and deploy cloud-native infrastructure, practical DevOps soluti
 - **AWS CloudOps Engineer Associate**
 
 
-
 ##  Core Skills
 
 - **Cloud & DevOps:** AWS, Microsoft Azure, Kubernetes, Docker, Terraform, Linux, Networking

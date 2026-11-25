@@ -8,7 +8,9 @@ I design, build, and deploy cloud-native infrastructure, practical DevOps soluti
 - **AWS Cloud Practitioner**
 - **AWS AI Practitioner**
 - **AWS Solutions Architect Associate**
+- **AWS Developer Associate**
 - **AWS CloudOps Engineer Associate**
+  
 
 ##  Core Skills
 
